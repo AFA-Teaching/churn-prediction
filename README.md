@@ -136,7 +136,7 @@ churn-prediction/
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/AFA-Teaching/churn-prediction.git
+   git clone https://github.com/The-AI-Thinker/churn-prediction.git
    cd churn-prediction
 ```
 
